@@ -1,5 +1,5 @@
-API_ID       = "23890262"
-API_HASH     = "da7e86cf57b0e6220b8a9e0aed228a68"
+API_ID       = "28264594"
+API_HASH     = "94ca8a089020a2290fd29a41f18acb94"
 BOT_TOKEN    = "6427124758:AAG-PILGXW3q-RGlgajUNbQJr6F0pWmqStQ"
 SESSION      = ""
 DATABASE_URI = "mongodb+srv://publicdb:publicdb@cluster0.aisg0rh.mongodb.net/?retryWrites=true&w=majority"
