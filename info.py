@@ -1,8 +1,8 @@
-API_ID       = 
-API_HASH     = ""
-BOT_TOKEN    = ""
+API_ID       = "23890262"
+API_HASH     = "da7e86cf57b0e6220b8a9e0aed228a68"
+BOT_TOKEN    = "6427124758:AAG-PILGXW3q-RGlgajUNbQJr6F0pWmqStQ"
 SESSION      = ""
-DATABASE_URI = ""
-LOG_CHANNEL  = 
-ADMIN        = 
+DATABASE_URI = "mongodb+srv://publicdb:publicdb@cluster0.aisg0rh.mongodb.net/?retryWrites=true&w=majority"
+LOG_CHANNEL  = "-1001868871195"
+ADMIN        = "6497757690"
 CHANNEL      = "codeflix_bots"
